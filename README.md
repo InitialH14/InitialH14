@@ -7,7 +7,7 @@ Futhermore, I'm currently an informatics student on Universitas Negeri Semarang.
 If you have interest to me, please visit my account [Linkedin](https://www.linkedin.com/in/hadid-ramadhan14/).
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/InitialH14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InitialH14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InitialH14&layout=compact&theme=algolia"/>
 </a>
