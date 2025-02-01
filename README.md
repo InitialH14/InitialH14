@@ -13,7 +13,7 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 
 💡 I enjoy solving complex problems with elegant and efficient solutions.
 
-🌟 I specialize in developing robust software systems and machine learning models.
+🌟 I playing LeetCode in free time
 
 🛠️ I'm constantly exploring new technologies and tools to improve my craft. <br><br>
 
