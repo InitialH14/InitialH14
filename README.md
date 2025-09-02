@@ -76,11 +76,10 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced Deep Learning Techniques like GANs and transformers.
+- gRPC architecture
 
-- Scalable System Design to build robust architectures.
-
-- MLOps to streamline the ML lifecycle. <br><br>
+- Optimized HTR 
+<br><br>
 
 <p align="left">
 <a href="https://github.com/InitialH14">
@@ -91,6 +90,7 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 
 <br>
 If you have interest to me, let's connect to Linkedin [Linkedin](https://www.linkedin.com/in/hadid-ramadhan14/).
+
 
 
 
