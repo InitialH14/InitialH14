@@ -85,12 +85,13 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 <p align="left">
 <a href="https://github.com/InitialH14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InitialH14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InitialH14&layout=compact&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=InitialH14&layout=compact&theme=algolia"/> -->
 </a>
 </p>
 
 <br>
 If you have interest to me, let's connect to Linkedin [Linkedin](https://www.linkedin.com/in/hadid-ramadhan14/).
+
 
 
 
