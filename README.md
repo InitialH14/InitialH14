@@ -74,8 +74,6 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
 </div> <br><br>
 
-<br><br>
-
 <p align="left">
 <a href="https://github.com/InitialH14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=InitialH14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -85,6 +83,7 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 
 <br>
 If you have interest to me, let's connect to Linkedin [Linkedin](https://www.linkedin.com/in/hadid-ramadhan14/).
+
 
 
 
