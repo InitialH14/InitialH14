@@ -74,11 +74,6 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
 </div> <br><br>
 
-## 🌱 What I'm Currently Learning
-
-- gRPC architecture
-
-- Optimized HTR 
 <br><br>
 
 <p align="left">
@@ -90,6 +85,7 @@ I'm currently a undergraduate of [Universitas Negeri Semarang](https://unnes.ac.
 
 <br>
 If you have interest to me, let's connect to Linkedin [Linkedin](https://www.linkedin.com/in/hadid-ramadhan14/).
+
 
 
 
